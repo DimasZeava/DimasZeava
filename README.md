@@ -1,4 +1,4 @@
-### **こんにちは** 👋
+# **こんにちは** 👋
 
 >“Productivity is being able to do things that you were never able to do before.” – Franz Kafka
 
@@ -15,7 +15,7 @@ I'm currently an undergraduate student from UPN "Veteran" Jawa Timur <br>
 </p>
 
 Connect with me !
-<a href=”https://www.linkedin.com/in/dimas-irmansyah-933a0424b/"><img align=”left” src=”https://raw.githubusercontent.com/DimasZeava/DimasZeava/main/images/linkedin.svg" alt=”Dimas | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/dimas-irmansyah-933a0424b/"><img align=”left” src=”https://raw.githubusercontent.com/DimasZeava/DimasZeava/main/linkedin.svg" alt=”Dimas | LinkedIn” width=”21px”/></a>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
