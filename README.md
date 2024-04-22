@@ -12,19 +12,22 @@ I'm currently an undergraduate student from UPN "Veteran" Jawa Timur <br>
 
 <p>
 <a href=”https://www.linkedin.com/in/dimas-irmansyah-933a0424b/">
-  <img align=”left” src=”https://cd.simpleicons.org/linkedin" alt="Dimas | LinkedIn" width=”21px”>
+  <img alight="left" src="https://cdn.simpleicons.org/linkedin" alt="Dimas | Linkedin" width="21px">
 </a>
 <a href="https://steamcommunity.com/profiles/76561198311772724/">
   <img alight="left" src="https://cdn.simpleicons.org/steam" alt="ZeAvalanche | Steam" width="21px">
 </a>
 </p>
 
-### My Knowledge Skill
+## My Knowledge Skill
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## My Statistic
 
 <p align="left">
 <a href="https://github.com/DimasZeava">
