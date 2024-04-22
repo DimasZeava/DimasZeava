@@ -18,6 +18,7 @@ I'm currently an undergraduate student from UPN "Veteran" Jawa Timur <br>
   <img align="left" src="https://cdn.simpleicons.org/steam" alt="ZeAvalanche | Steam" width="21px">
 </a>
 </p>
+<br>
 
 ## My Knowledge Skill
 
