@@ -12,10 +12,10 @@ I'm currently an undergraduate student from UPN "Veteran" Jawa Timur <br>
 
 <p>
 <a href=”https://www.linkedin.com/in/dimas-irmansyah-933a0424b/">
-  <img alight="left" src="https://cdn.simpleicons.org/linkedin" alt="Dimas | Linkedin" width="21px">
+  <img align="left" src="https://cdn.simpleicons.org/linkedin" alt="Dimas | Linkedin" width="21px">
 </a>
 <a href="https://steamcommunity.com/profiles/76561198311772724/">
-  <img alight="left" src="https://cdn.simpleicons.org/steam" alt="ZeAvalanche | Steam" width="21px">
+  <img align="left" src="https://cdn.simpleicons.org/steam" alt="ZeAvalanche | Steam" width="21px">
 </a>
 </p>
 
